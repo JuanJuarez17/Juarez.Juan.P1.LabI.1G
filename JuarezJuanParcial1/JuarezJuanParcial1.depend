@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1652489878 source:c:\users\jjuarez\desktop\juarezjuanparcial1\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652486636 c:\users\jjuarez\desktop\juarezjuanparcial1\opcionesmenu.h
+	"validaciones.h"
+
+1652478530 source:c:\users\jjuarez\desktop\juarezjuanparcial1\validaciones.c
+	"validaciones.h"
+
+1652478530 c:\users\jjuarez\desktop\juarezjuanparcial1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1652478899 source:c:\users\jjuarez\desktop\juarezjuanparcial1\fecha.c
+	"fecha.h"
+
+1652478899 c:\users\jjuarez\desktop\juarezjuanparcial1\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652480019 source:c:\users\jjuarez\desktop\juarezjuanparcial1\etrabajos.c
+	"eTrabajos.h"
+
+1652480011 c:\users\jjuarez\desktop\juarezjuanparcial1\etrabajos.h
+	"fecha.h"
+
+1652490106 source:c:\users\jjuarez\desktop\juarezjuanparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1652488435 source:c:\users\jjuarez\desktop\juarezjuanparcial1\ecolor.c
+	"eColor.h"
+
+1652484518 c:\users\jjuarez\desktop\juarezjuanparcial1\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1652484010 source:c:\users\jjuarez\desktop\juarezjuanparcial1\etipo.c
+	"eTipo.h"
+
+1652484289 c:\users\jjuarez\desktop\juarezjuanparcial1\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1652488435 source:c:\users\jjuarez\desktop\juarezjuanparcial1\eservicio.c
+	"eServicio.h"
+
+1652488269 c:\users\jjuarez\desktop\juarezjuanparcial1\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652489835 source:c:\users\jjuarez\desktop\juarezjuanparcial1\emoto.c
+	"eMoto.h"
+
+1652489781 c:\users\jjuarez\desktop\juarezjuanparcial1\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
