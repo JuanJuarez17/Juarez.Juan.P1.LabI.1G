@@ -1,0 +1,490 @@
+# depslib dependency file v1.0
+1652489878 source:c:\users\jjuarez\desktop\juarezjuanparcial1\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652486636 c:\users\jjuarez\desktop\juarezjuanparcial1\opcionesmenu.h
+	"validaciones.h"
+
+1652478530 source:c:\users\jjuarez\desktop\juarezjuanparcial1\validaciones.c
+	"validaciones.h"
+
+1652478530 c:\users\jjuarez\desktop\juarezjuanparcial1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1652478899 source:c:\users\jjuarez\desktop\juarezjuanparcial1\fecha.c
+	"fecha.h"
+
+1652478899 c:\users\jjuarez\desktop\juarezjuanparcial1\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652480019 source:c:\users\jjuarez\desktop\juarezjuanparcial1\etrabajos.c
+	"eTrabajos.h"
+
+1652480011 c:\users\jjuarez\desktop\juarezjuanparcial1\etrabajos.h
+	"fecha.h"
+
+1652490106 source:c:\users\jjuarez\desktop\juarezjuanparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1652488435 source:c:\users\jjuarez\desktop\juarezjuanparcial1\ecolor.c
+	"eColor.h"
+
+1652484518 c:\users\jjuarez\desktop\juarezjuanparcial1\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1652484010 source:c:\users\jjuarez\desktop\juarezjuanparcial1\etipo.c
+	"eTipo.h"
+
+1652484289 c:\users\jjuarez\desktop\juarezjuanparcial1\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1652488435 source:c:\users\jjuarez\desktop\juarezjuanparcial1\eservicio.c
+	"eServicio.h"
+
+1652488269 c:\users\jjuarez\desktop\juarezjuanparcial1\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652489835 source:c:\users\jjuarez\desktop\juarezjuanparcial1\emoto.c
+	"eMoto.h"
+
+1652489781 c:\users\jjuarez\desktop\juarezjuanparcial1\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
+1652813112 source:c:\users\pc\desktop\juarezjuanparcial1\ecolor.c
+	"eColor.h"
+
+1652490189 c:\users\pc\desktop\juarezjuanparcial1\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1652828050 source:c:\users\pc\desktop\juarezjuanparcial1\emoto.c
+	"eMoto.h"
+
+1652828024 c:\users\pc\desktop\juarezjuanparcial1\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
+1652824153 c:\users\pc\desktop\juarezjuanparcial1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1652490189 c:\users\pc\desktop\juarezjuanparcial1\opcionesmenu.h
+	"validaciones.h"
+
+1652490189 c:\users\pc\desktop\juarezjuanparcial1\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1652830583 source:c:\users\pc\desktop\juarezjuanparcial1\eservicio.c
+	"eServicio.h"
+
+1652827977 c:\users\pc\desktop\juarezjuanparcial1\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652813112 source:c:\users\pc\desktop\juarezjuanparcial1\etipo.c
+	"eTipo.h"
+
+1652830583 source:c:\users\pc\desktop\juarezjuanparcial1\etrabajos.c
+	"eTrabajos.h"
+
+1652829421 c:\users\pc\desktop\juarezjuanparcial1\etrabajos.h
+	"fecha.h"
+	"eMoto.h"
+	"eServicio.h"
+
+1652490189 c:\users\pc\desktop\juarezjuanparcial1\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652490189 source:c:\users\pc\desktop\juarezjuanparcial1\fecha.c
+	"fecha.h"
+
+1652830363 source:c:\users\pc\desktop\juarezjuanparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1652830596 source:c:\users\pc\desktop\juarezjuanparcial1\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652824821 source:c:\users\pc\desktop\juarezjuanparcial1\validaciones.c
+	"validaciones.h"
+
+1652813112 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\ecolor.c
+	"eColor.h"
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1652828050 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\emoto.c
+	"eMoto.h"
+
+1652828024 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
+1652824153 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\opcionesmenu.h
+	"validaciones.h"
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1652830583 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\eservicio.c
+	"eServicio.h"
+
+1652827977 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652813112 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\etipo.c
+	"eTipo.h"
+
+1652830583 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\etrabajos.c
+	"eTrabajos.h"
+
+1652829421 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\etrabajos.h
+	"fecha.h"
+	"eMoto.h"
+	"eServicio.h"
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652490189 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\fecha.c
+	"fecha.h"
+
+1652832256 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1652830596 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652824821 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1\validaciones.c
+	"validaciones.h"
+
+1652813112 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\ecolor.c
+	"eColor.h"
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1653090842 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\emoto.c
+	"eMoto.h"
+
+1653064262 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
+1652824153 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\opcionesmenu.h
+	"validaciones.h"
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1653050882 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\eservicio.c
+	"eServicio.h"
+
+1653050882 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652813112 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etipo.c
+	"eTipo.h"
+
+1653090671 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etrabajos.c
+	"eTrabajos.h"
+
+1653087797 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etrabajos.h
+	"fecha.h"
+	"eMoto.h"
+	"eServicio.h"
+
+1652490189 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652490189 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\fecha.c
+	"fecha.h"
+
+1652824821 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\validaciones.c
+	"validaciones.h"
+
+1652813112 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\ecolor.c
+	"eColor.h"
+
+1652490189 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1653072908 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\emoto.c
+	"eMoto.h"
+
+1653064262 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
+1652824153 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1652490189 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\opcionesmenu.h
+	"validaciones.h"
+
+1652490189 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1653050882 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\eservicio.c
+	"eServicio.h"
+
+1653050882 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652813112 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etipo.c
+	"eTipo.h"
+
+1653072972 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etrabajos.c
+	"eTrabajos.h"
+
+1653064334 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\etrabajos.h
+	"fecha.h"
+	"eMoto.h"
+	"eServicio.h"
+
+1652490189 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652490189 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\fecha.c
+	"fecha.h"
+
+1653073679 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652824821 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\validaciones.c
+	"validaciones.h"
+
+1653009929 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+	"informes.h"
+
+1653073679 e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1653073962 source:e:\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\informes.c
+	"informes.h"
+
+1653089680 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\informes.c
+	"informes.h"
+
+1653084801 c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1653090671 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+	"informes.h"
+
+1653088550 source:c:\users\jjuarez\onedrive - f.v.s.a\personal\utn fra - tup\04 - programacion i\parcial laboratorio i\juarezjuanparcial1informes\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652813112 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\ecolor.c
+	"eColor.h"
+
+1652490189 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\ecolor.h
+	<stdio.h>
+	<stdlib.h>
+
+1653090981 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\emoto.c
+	"eMoto.h"
+
+1653064262 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\emoto.h
+	"validaciones.h"
+	"opcionesMenu.h"
+	"eTipo.h"
+	"eColor.h"
+	<string.h>
+
+1652824153 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1652490189 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\opcionesmenu.h
+	"validaciones.h"
+
+1652490189 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\etipo.h
+	<stdio.h>
+	<stdlib.h>
+
+1653050882 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\eservicio.c
+	"eServicio.h"
+
+1653050882 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\eservicio.h
+	<stdio.h>
+	<stdlib.h>
+
+1652813112 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\etipo.c
+	"eTipo.h"
+
+1653090981 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\etrabajos.c
+	"eTrabajos.h"
+
+1653087797 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\etrabajos.h
+	"fecha.h"
+	"eMoto.h"
+	"eServicio.h"
+
+1652490189 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1652490189 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\fecha.c
+	"fecha.h"
+
+1653089680 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\informes.c
+	"informes.h"
+
+1653084801 c:\users\jjuarez\desktop\juarezjuanparcial12daparte\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+
+1653090981 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"opcionesMenu.h"
+	"eTrabajos.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eMoto.h"
+	"informes.h"
+
+1653088550 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\opcionesmenu.c
+	"opcionesMenu.h"
+
+1652824821 source:c:\users\jjuarez\desktop\juarezjuanparcial12daparte\validaciones.c
+	"validaciones.h"
+
